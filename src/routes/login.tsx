@@ -64,8 +64,6 @@ if (userError || !user) {
   throw new Error("Não foi possível verificar o usuário autenticado.");
 }
 
-console.log("Usuário autenticado:", user.id);
-
 toast.success("Login realizado com sucesso!");
 await navigate({ to: "/mural" });
       }

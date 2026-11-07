@@ -162,7 +162,3 @@ O sistema **não apresenta um mapa geográfico interativo** na implementação e
 - **Aplicação publicada:** https://campus-consciente.goncalveslucasnome11.workers.dev
 - **Vídeo da solução inicial:** https://www.youtube.com/watch?v=zB-lUbWOf6c
 - **Vídeo das melhorias:** https://www.youtube.com/watch?v=4_AL6lTG-L4
-
-## 15. Modelagem complementar a validar
-
-Esta documentação descreve requisitos, fluxos, arquitetura e dicionário lógico a partir dos artefatos disponíveis. **Não foram fornecidos diagramas UML formais, modelo entidade-relacionamento completo ou esquema SQL integral.** Se a rubrica exigir esses artefatos, eles deverão ser produzidos e conferidos contra o código e o banco reais antes de serem apresentados como documentação definitiva.

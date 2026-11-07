@@ -78,8 +78,8 @@ npm install
 Crie um arquivo `.env.local` na raiz do projeto e configure as variáveis públicas de conexão com o Supabase:
 
 ```env
-VITE_SUPABASE_URL=URL_DO_SEU_PROJETO
-VITE_SUPABASE_ANON_KEY=SUA_CHAVE_PUBLICA
+VITE_SUPABASE_URL=SUA_URL_DO_SUPABASE
+VITE_SUPABASE_PUBLISHABLE_KEY=SUA_CHAVE_PUBLICA
 ```
 
 As variáveis devem corresponder às utilizadas em `src/lib/supabase.ts`. Nunca adicione chaves administrativas ou secretas ao repositório.
